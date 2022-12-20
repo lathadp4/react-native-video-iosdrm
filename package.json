@@ -1,0 +1,19 @@
+{
+  "name": "@lathadp4/react-native-video-iosdrm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathadp4/react-native-video-iosdrm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathadp4/react-native-video-iosdrm/issues"
+  },
+  "homepage": "https://github.com/lathadp4/react-native-video-iosdrm#readme"
+}
